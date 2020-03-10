@@ -1,0 +1,11 @@
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\bin\Debug\netstandard2.0\NotificationHubSample.deps.json
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\bin\Debug\netstandard2.0\NotificationHubSample.dll
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\bin\Debug\netstandard2.0\NotificationHubSample.pdb
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\NotificationHubSample.csprojAssemblyReference.cache
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\NotificationHubSample.AssemblyInfoInputs.cache
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\NotificationHubSample.AssemblyInfo.cs
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\NotificationHubSample.dll
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationHubSample\NotificationHubSample\obj\Debug\netstandard2.0\NotificationHubSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\bin\Debug\netcoreapp2.1\NotificationDispatcher.deps.json
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\bin\Debug\netcoreapp2.1\NotificationDispatcher.runtimeconfig.json
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\bin\Debug\netcoreapp2.1\NotificationDispatcher.runtimeconfig.dev.json
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\bin\Debug\netcoreapp2.1\NotificationDispatcher.dll
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\bin\Debug\netcoreapp2.1\NotificationDispatcher.pdb
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\obj\Debug\netcoreapp2.1\NotificationDispatcher.csprojAssemblyReference.cache
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\obj\Debug\netcoreapp2.1\NotificationDispatcher.AssemblyInfoInputs.cache
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\obj\Debug\netcoreapp2.1\NotificationDispatcher.AssemblyInfo.cs
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\obj\Debug\netcoreapp2.1\NotificationDispatcher.dll
+C:\Users\will\Downloads\Xamarin_Forms___Azure_Notification_Hub\NotificationDispatcher\obj\Debug\netcoreapp2.1\NotificationDispatcher.pdb

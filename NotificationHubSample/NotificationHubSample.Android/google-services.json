@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846453579453",
+    "firebase_url": "https://learning-journals-parents-app.firebaseio.com",
+    "project_id": "learning-journals-parents-app",
+    "storage_bucket": "learning-journals-parents-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846453579453:android:b40c83da7534b9e7",
+        "android_client_info": {
+          "package_name": "com.learningjournals.parentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846453579453-lnf5buphta2mhdhnjo7dijs7a6e2ps0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWymYz3IxYq2zy6TZqG7V-elsaknnjAr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846453579453-lnf5buphta2mhdhnjo7dijs7a6e2ps0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846453579453-povq6p4mbi34h0pmuu6qtlqht4aerdbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.ParentsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
